@@ -1,0 +1,19 @@
+{
+  "name": "make",
+  "version": "1.0.0",
+  "description": "make",
+  "main": "test.js",
+  "scripts": {
+    "test": "mocha make.js"
+  },
+  "keywords": [
+    "make",
+    "js"
+  ],
+  "author": "Ihar Padbiarezski",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^13.1.0",
+    "mocha": "^5.2.0"
+  }
+}
